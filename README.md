@@ -19,3 +19,10 @@ Double.MAX_VALUE + 1
 **NOTE**
 
 Use *JSHELL* to experiment with Java
+
+# This time, edits on my computer
+
+* get code from github
+* change directory to the one on github
+* edit README.md file
+* commit changes to github
